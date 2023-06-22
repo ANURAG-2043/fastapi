@@ -1,0 +1,22 @@
+{
+    "id": null,
+    "obstruction": true,
+    "secondaryStructure": false,
+    "area": 2290.57,
+    "faceCount": 4,
+    "rooftopLatitude": 47.78882,
+    "rooftopLongitude": -122.29422,
+    "orderSequenceNumber": 161255,
+    "address": "4411 231st Pl SW, Mountlake Terrace, WA 98043, USA",
+    "buyerAddress": "",
+    "buyerCompanyLogo": null,
+    "customerName": "Patrick O'Neill",
+    "referenceNumber": "",
+    "notes": "",
+    "orderNumber": "G150623161255",
+    "placedBy": "Patrick O'Neill",
+    "productName": "Residential Premium Solar",
+    "rooftopLabel": "",
+    "utm": "10",
+    "orderDate": "2023-06-15T19:17:06.638"
+}
