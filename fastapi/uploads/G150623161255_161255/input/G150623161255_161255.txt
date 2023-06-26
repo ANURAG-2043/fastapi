@@ -1,9 +1,0 @@
-Order Number : G150623161255
-Reference Number : 
-Address : 4411 231st Pl SW, Mountlake Terrace, WA 98043, USA
-Latitude : 47.78882
-Longitude : -122.29422
-Product : Residential Premium Solar
-UTM : 10
-Secondary Structure : false
-Include Obstruction : false
